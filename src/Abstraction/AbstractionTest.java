@@ -28,5 +28,6 @@ public class AbstractionTest {
         System.out.println(Department.departmentManager);
         System.out.println(Department.departmentManager.length());
         System.out.println(Employees.employeeID);
+        System.out.println();
     }
 }
